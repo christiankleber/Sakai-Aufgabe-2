@@ -25,5 +25,5 @@ Test wird beendet
 ## Hinweise
 keine
 ## Änderungsgeschichte
-0.01; 18.03.2024.; Florian Schrottenbaum
+0.01; 18.03.2024.; Florian Schrottenbaum <br>
 0.02; 18.03.2024.; Christian Kleber
