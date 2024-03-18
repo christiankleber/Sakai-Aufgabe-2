@@ -21,4 +21,8 @@ Aufzeichnung der bis zum Abbruch erhobenen Herzfrequenz
 Test wird beendet
 ## Standardablauf
 1. **Leistungstest durchführen:** Proband:in führt den Leistungstest durch
-2. **Herzfrequenz überschreitet Grenzwert**: Alarm wird ausgelöst - Test wird beendet 
+2. **Herzfrequenz überschreitet Grenzwert:** Alarm wird ausgelöst - Test wird beendet
+## Hinweise
+keine
+## Änderungsgeschichte
+0.01; 18.13.2024.; Florian Schrottenbaum
